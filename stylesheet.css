@@ -26,6 +26,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(https://s.eximg.jp/expub/feed/Woman_woman/2016/E1460244192146/1460352760_1.jpg);
   background-size: cover;
+  opacity:  0.9;
   color: white;
   text-align: center;
 }
@@ -170,7 +171,7 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 44%;
+  top: 33%;
   width: 100%;
   color: white;
 }
