@@ -35,13 +35,12 @@
   .top-wrapper {
     text-align: left;
   }
-  
-  /* header-rightクラスのdisplayをnoneに指定してください */
+
   .header-right {
     display: none;
   }
   
-  /* menu-iconクラスのdisplayをblockに指定してください  */
+  
   .menu-icon {
     display: block;
   }
